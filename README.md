@@ -75,12 +75,14 @@ Using **RandomForestRegressor**, we predicted the price of Airbnb listings based
 
 4. **Visualizations**:
    - **Actual vs Predicted Prices**:  
-     ![image](https://github.com/user-attachments/assets/1ab6a596-c632-4306-a5a2-54011d78f7f5)
+     ![image](https://github.com/user-attachments/assets/35e40f23-2a0f-4e5b-a76d-1a1c26dbea36)
+)
 )  
      Scatter plot showing how well the model's predictions align with actual prices.
    
    - **Feature Importance**:  
-     ![image](https://github.com/user-attachments/assets/fcdd6718-c414-48d2-9536-85afca40938c)
+     ![image](https://github.com/user-attachments/assets/0b391776-7291-4590-97ce-686ccbcd96e0)
+)
 )  
      Bar plot showing the importance of **Room Type** and **Neighborhood** in predicting prices.
 
