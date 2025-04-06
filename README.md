@@ -76,14 +76,12 @@ Using **RandomForestRegressor**, we predicted the price of Airbnb listings based
 4. **Visualizations**:
    - **Actual vs Predicted Prices**:  
      ![image](https://github.com/user-attachments/assets/35e40f23-2a0f-4e5b-a76d-1a1c26dbea36)
-)
-)  
+  
      Scatter plot showing how well the model's predictions align with actual prices.
    
    - **Feature Importance**:  
      ![image](https://github.com/user-attachments/assets/0b391776-7291-4590-97ce-686ccbcd96e0)
-)
-)  
+ 
      Bar plot showing the importance of **Room Type** and **Neighborhood** in predicting prices.
 
 ---
@@ -95,7 +93,7 @@ Using **RandomForestRegressor**, we predicted the price of Airbnb listings based
    - **Entire homes/apartments** are the most expensive type, while **private rooms** are more budget-friendly.
 
 - **Outliers**:  
-   Extreme price outliers, such as listings over $10,000 per night, were identified and filtered.
+   Extreme price outliers, such as listings over $1,000 per night, were identified and filtered.
 
 - **Availability & Price**:  
    Listings with more availability tend to have lower prices and more reviews, suggesting that higher availability is correlated with better guest experiences.
