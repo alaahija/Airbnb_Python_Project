@@ -1,5 +1,7 @@
 # New York Airbnb Price Prediction & EDA
 
+![image](https://github.com/user-attachments/assets/15142c88-64e2-4d06-b67e-5d31b5e644ba)
+
 
 This project performs **Exploratory Data Analysis (EDA)** and applies **Machine Learning** techniques on New York City Airbnb listings. By leveraging libraries such as Pandas, Numpy, Matplotlib, Seaborn, and **Random Forest Regression**, the goal is to uncover pricing trends, room type distributions, and host behaviors, while predicting prices based on room type and location.
 
