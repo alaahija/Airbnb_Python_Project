@@ -31,8 +31,7 @@ The dataset contains **20,765 listings** and **22 features**, including:
 ## 🔍 **Data Cleaning & Preprocessing**
 
 1. **Handling Missing Data**: Rows with missing values in key columns such as `price`, `room_type`, and `neighborhood` were dropped.
-2. **Categorical Encoding**: 
-   - Applied **Label Encoding** to transform categorical features (`room_type` and `neighborhood_group`) into numerical values.
+2. **Categorical Encoding**: Applied **Label Encoding** to transform categorical features (`room_type` and `neighborhood_group`) into numerical values.
 3. **Outliers Handling**: Listings with prices greater than $1,000 were capped to avoid skewed visualizations.
 
 ---
